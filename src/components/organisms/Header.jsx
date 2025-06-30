@@ -43,13 +43,12 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-gradient-to-br from-accent to-secondary rounded-lg flex items-center justify-center">
-              <ApperIcon name="Zap" className="h-5 w-5 text-white" />
+<ApperIcon name="Zap" className="h-5 w-5 text-white" />
             </div>
             <span className="text-xl font-display font-bold text-primary">
-              ForgeWorks Pro
+              Professional Work
             </span>
           </Link>
-
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
             {navItems.map((item) => (

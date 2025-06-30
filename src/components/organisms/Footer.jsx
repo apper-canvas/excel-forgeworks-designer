@@ -25,13 +25,12 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-8 h-8 bg-gradient-to-br from-accent to-secondary rounded-lg flex items-center justify-center">
-                <ApperIcon name="Zap" className="h-5 w-5 text-white" />
+<ApperIcon name="Zap" className="h-5 w-5 text-white" />
               </div>
               <span className="text-xl font-display font-bold">
-                ForgeWorks Pro
+                Professional Work
               </span>
             </div>
-            
             <p className="text-gray-300 mb-6 max-w-md">
               Leading provider of precision manufacturing solutions with over 20 years of experience. 
               We deliver quality products that meet the highest industry standards.
@@ -53,9 +52,9 @@ const Footer = () => {
               </div>
               
               <div className="flex items-center space-x-3">
-                <ApperIcon name="Mail" className="h-5 w-5 text-accent" />
+<ApperIcon name="Mail" className="h-5 w-5 text-accent" />
                 <span className="text-gray-300">
-                  info@forgeworkspro.com
+                  info@professionalwork.com
                 </span>
               </div>
             </div>
@@ -98,9 +97,9 @@ const Footer = () => {
 
         {/* Bottom Footer */}
         <div className="py-6 border-t border-gray-700">
-          <div className="flex flex-col md:flex-row items-center justify-between">
+<div className="flex flex-col md:flex-row items-center justify-between">
             <p className="text-gray-400 text-sm">
-              © 2024 ForgeWorks Pro. All rights reserved.
+              © 2024 Professional Work. All rights reserved.
             </p>
             
             <div className="flex items-center space-x-6 mt-4 md:mt-0">
